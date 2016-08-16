@@ -56,3 +56,6 @@ TARGET_RECOVERY_FSTAB := $(LOCAL_PATH)/rootdir/fstab.qcom
 
 # Releasetools
 TARGET_RELEASETOOLS_EXTENSIONS := device/samsung/s3ve3g
+
+# Optimization
+TARGET_USE_QCOM_BIONIC_OPTIMIZATION := false
